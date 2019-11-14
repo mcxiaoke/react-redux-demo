@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { connect } from "./connect";
+import { connect } from 'react-redux'
 import { ThemeContext } from "./Context";
 
 class Header extends Component {

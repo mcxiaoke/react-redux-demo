@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import ThemeSwitch from "./ThemeSwitch";
-import { connect } from "./connect";
+import { connect } from 'react-redux'
 
 class Content extends Component {
   render() {
